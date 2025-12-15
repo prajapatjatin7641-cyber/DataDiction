@@ -1,2 +1,2 @@
 # DataDiction
-This is the offical repository of ICG winter project "DataDiction"
+This is the official repository of ICG winter project "DataDiction"
